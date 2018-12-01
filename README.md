@@ -1,10 +1,10 @@
 # Terminal SuperMario
 
-Install reuirements: 
-    
+**Virtualenv recommended**
     pip install -r requirements.txt
 
 **RUN:** run.py in python3.
+    python 
 
 *Tested and runs on Mac.*
 
