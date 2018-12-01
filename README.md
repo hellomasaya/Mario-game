@@ -1,6 +1,8 @@
 # Terminal SuperMario
 
-*Install reuirements: pip install -r requirements.txt*
+Install reuirements: 
+    
+    pip install -r requirements.txt
 
 **RUN:** run.py in python3.
 
